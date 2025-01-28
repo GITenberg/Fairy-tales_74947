@@ -16,6 +16,9 @@ contributor:
     deathdate: 1939
     gutenberg_agent_id: '56655'
     url: http://www.gutenberg.org/2009/agents/56655
+covers:
+- cover_type: archival
+  image_path: 74947-h/images/cover.jpg
 creator:
   author:
     agent_name: Hauff, Wilhelm
@@ -27,6 +30,8 @@ creator:
     - https://en.wikipedia.org/wiki/Wilhelm_Hauff
     - https://de.wikipedia.org/wiki/Wilhelm_Hauff
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74947#Fairy-tales
 gutenberg_issued: '2024-12-20'
 gutenberg_type: Text
 identifiers:
